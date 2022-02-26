@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Boanerges, or, The Parliament of thunder with their sharp declarations against those rebellious malignants that revolt and fall away from them. For which they are voted evill members of the Common-vvealth, rebels and such who are the cause of all our present and bleeding miseries.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76933</idno>
+            <idno type="STC">Wing B3367</idno>
+            <idno type="STC">Thomason E88_25</idno>
+            <idno type="STC">ESTC R1448</idno>
+            <idno type="EEBO-CITATION">99859671</idno>
+            <idno type="PROQUEST">99859671</idno>
+            <idno type="VID">111766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111766)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E88[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Boanerges, or, The Parliament of thunder with their sharp declarations against those rebellious malignants that revolt and fall away from them. For which they are voted evill members of the Common-vvealth, rebels and such who are the cause of all our present and bleeding miseries.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.] Printed for the serious consideration of all men who desire to have a permanent and lasting peace ,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.D.C.XLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb. 8 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111766:1" rendition="simple:additions"/>
+            <p>BOANERGES, OR The Parliament of Thunder WITH Their ſharp Declarations againſt thoſe rebellious Malignants that revolt and fall away from them.</p>
+            <p>For which they are Voted evill members of the COMMON-VVEALTH,</p>
+            <p>Rebels, and ſuch who are the cauſe of all our preſent and bleeding miſeries.</p>
+            <p>
+               <add>feb. 8 1642</add> LONDON Printed for the ſerious conſideration of all men who deſire to have a permanent and laſting Peace.</p>
+            <p>M.D.C.XLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111766:2"/>
+            <pb facs="tcp:111766:2"/>
+            <head>The Parliament of thunder.</head>
+            <p>IT is uſuall in time of publique calamity, for carnall men to ſeeke redreſſe for themſelves alone by carnallmeanes, but if we would demean our ſelves like faithfull ſervants to the Lord, we ſhould ex<g ref="char:EOLhyphen"/>amine our ſelves, and find out the accurſed thing that provokes God to anger, God ſtrikes us not to deſtroy, but to bring us under the wing of heaven, when we oft creep into the black Cave of helliſh practi<g ref="char:EOLhyphen"/>ſes, our croſſes are as meſſengers to ſummon us before him, who will freely pardon where he finds true ſorrow: God that is King above all Kings and Princes, Emperours and Monarches whatſoever, who ſits in the royall throne of Princely glory, eternally at his right hand ſits <hi>Ieſus Chriſt</hi> in Princely ſtate, with all the Saints and Angels about them in the upper houſe of heaven, cloathed with the Parliament robes of righteouſneſſe, lined with inocencie; And in the lower houſe of this world God hath his houſe of Commons, where his ſervants meet to honour and do him worſhip, in which houſe his Prophets the Pen-men of the holy Writ, are his Clearkes, and his Miniſters are his Spea<g ref="char:EOLhyphen"/>kers.</p>
+            <p>Gods Judgements here on earth is the Bar where ſentence is denoun<g ref="char:EOLhyphen"/>ced, and hell the place of finall execution upon Malignants.</p>
+            <p>Jn this high Court are decreed and eſtabliſhed many permanent Lawes, for the peaceable and well governing of the Church and com<g ref="char:EOLhyphen"/>mon-wealth, with many Judgements thundered out by Proclamation againſt the diſturbers thereof, for which purpoſe God hath appointed to take vengeance on ſuch as do evilll. <hi>Rom.</hi> 13.</p>
+            <p n="1">1. The Prophet <hi>Eſay,</hi> thunders againſt the the <hi>Sodomitiſh Iſaralitea</hi> and tels them that they are Rebels and traitors, and by their ſuperſti<g ref="char:EOLhyphen"/>tious Jdolatrie had revolted from Gods Law, confirmed in this high
+<pb n="2" facs="tcp:111766:3"/>Court, they thought their ſuperſtition would be thought a bleſſing, but the Prophet told them that God loathed it, and that therefore their Land ſhould lye waſt, their Cities ſhould be burnt with fire, and that ſtrangers ſhould murder them, and make them deſolate, <hi>Eſay</hi> 1.</p>
+            <p>If we would have our Kingdome to be preſerved (which God Al<g ref="char:EOLhyphen"/>mightie grant) we muſt take heed that we be not as rebellious as them, nor revolt from the cauſe of God, and permit Idolatry, and ſuperſtition abide peaceably amongſt us, ſuch peace will not bring a bleſſing, but make us to be loathed of God, and provoke him to lay our Land waſte, to ſuffer the Enemy to burn our Cities, as they have done in <hi>Ireland</hi> already, and we ſhalbe in danger to have ſtrangers fall upon us on a ſuddain, and murder us in our Beds, let us make our peace firſt with God, then he will ſend us ſuch a peace as will make us happy.</p>
+            <p n="2">2. The Prophet <hi>Ieremiah</hi> he thunders againſt <hi>Ieruſalem,</hi> for their luſts and uncleaneſſe, and tels them that the <hi>Caldeans</hi> and the <hi>Aſsyrians</hi> ſhould come like a ſeething pot out of the North, to make their wick<g ref="char:EOLhyphen"/>edneſſe to boyle up, and that they ſhould be plagued with them, inſo<g ref="char:EOLhyphen"/>much that they would ſubmit to no rule but their own wil, denying o<g ref="char:EOLhyphen"/>bedience to any Law.</p>
+            <p>Oh what a Judgement is it upon this Land at this day, wherein the deſperate Cavaliers in the North, boyling with their luſt and fil<g ref="char:EOLhyphen"/>thineſſe, do deſpiſe Religion, and the people of God, fight againſt the high Court of Parliament, and bring ſuch troubles and effuſion of blood in the bowels of the Land, God turn away his wrath from us, that his Judgement may be removed from us, for it is a very ſore one.</p>
+            <p n="3">3. The Prophet <hi>Ezekiell</hi> another member of this great Parliament, he is ſent to a rebellious Nation, impudent children and ſtiff-hearted,, and becauſe the Lord knew how he ſhould be hated of the Rebels, therefore ſaith the Lord, feare them not, neither be affraid of their words, although Rebels, and thornes be with thee, and thou remaineſt amongſt Scorpions, fear not their wordes nor be affraid of their lookes, for they are a rebellious houſe. <hi>Ezekiel, Chap.</hi> 2.</p>
+            <pb n="3" facs="tcp:111766:3"/>
+            <p> And have not the Worthies of this Parliament been maligned and ſcorned by Rebels, impudent ſtiffnecked Papiſts, and popiſh<g ref="char:EOLhyphen"/>ly-affected people, but feare them not noble Senators, feare not the words of theſe Rebels, and ſcorpions, that are ſo full of thor<g ref="char:EOLhyphen"/>ny prickles, feare not, be not afraid, for Gods worke, the labour you are about, God will perfect in due time.</p>
+            <p n="4">4. The Prophet <hi>Daniel</hi> he was in captivity with the <hi>Iewes</hi> un<g ref="char:EOLhyphen"/>der <hi>Nabuchadnezar</hi> King of <hi>Babylon,</hi> but God provided for his ſafe<g ref="char:EOLhyphen"/>ty, <hi>Chap.</hi> 1 and in the 3. <hi>Chap.</hi> three righteous ſervants of God were delivered from the fiery Fornace, which moſt cruelly was provided to burn them to aſhes, but had not power ſo much as to touch their garments.</p>
+            <p>And how many fires and tortures are at this day provided to grieve and trouble the righteous ſoules of Gods Saints, but God is al ſufficient, and he will provide for the ſafety of his People ei<g ref="char:EOLhyphen"/>ther to protect them, or to go through and deliver them from, and in all their troubles.</p>
+            <p n="5">5. The Prophet <hi>Hoſea,</hi> he by his firſt child declares how God will viſit the blood of <hi>Iezraell</hi> upon the houſe of <hi>Iehu.</hi> 2. By his Daughter he threatens to take <hi>Iſrael</hi> quite away, but to have mer<g ref="char:EOLhyphen"/>cy on the houſe of <hi>Iudah</hi> whom he will ſave. 3. By another ſon he declares that becauſe <hi>Jſraell</hi> had forſaken god, therefore God would fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſake them. <hi>Chap.</hi> 1.</p>
+            <p>Did not the wicked zeal of the Prelats, cry for vengeance on their bloody deſignes, who though they pretended to do it for religion, yet it appeared plaine enough that it was out of pride not conſcience; And hath not the Lord wrought by wonders ſuch great things, which by his proceedings have been brought to paſſe ſince the Parliament ſate, that we have cauſe to truſt God, if our rotten hearts will but hold out, that Popery will quite be baniſht, and the true reformed Proteſtant Religion flouriſh, which God grant: Oh let us pray, and do you noble Senators labour
+<pb n="4" facs="tcp:111766:4"/>ſtill till you have perfected a thorough reformation, the Lord <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſper you in it.</p>
+            <p n="6">6. The Prophet <hi>Ioel</hi> he tels them of <hi>Iudah,</hi> what a famine was <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike to fall amongſt them, becauſe the palmer worme, the graſſe-hopper, the canker worme, and the Caterpiller would deſtroy the vines, and that the drunkards ſhould weep for want of drinke to ſquench their thirſt, <hi>Ioel chap.</hi> 1.</p>
+            <p>And what a lamentable thing is it, to ſee how the Seperatiſts the Palmer Worme; the Cavaliers the Graſſe-hoppers; the Ieſu<g ref="char:EOLhyphen"/>its, Prieſts and Fryers, and other Papiſts, the Canker Wormes, and Monopolies the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terpillers of the Land, have taken paines not only to bring a famine of Bread in our Land, but a famine of the bread of the ſoul, the word of God; nay, how have many cruel hearted wretches fretted, with a kind of inward weeping, that they could not ſatisfie their greedy ſtomacks with the bloud of the people of God, God deliver us from their power over us.</p>
+            <p n="7">7. The Propher <hi>Amos,</hi> firſt he denounceth a thundrin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Judge<g ref="char:EOLhyphen"/>ment againſt <hi>Damascus,</hi> becauſe they have threſhed in <hi>Gilgall.</hi> 2. Againſt <hi>Azzah.</hi> 1. For captivating the people of God; and ſhutting them up in priſons in <hi>Edom.</hi> 3. Againſt <hi>Tyrus</hi> becauſe they broke the Covenant. 4. Againſt <hi>Edom</hi> for killing their Brethren and plundring them, and uſing cruelty againſt them without all pitty. 5. Againſt <hi>Ammon</hi> for ripping up the woman with child, and wicked rapine, <hi>Amos chap.</hi> 1.</p>
+            <p>And if poor <hi>England, Scotland</hi> and <hi>Ireland,</hi> would have hope to eſcape deſtruction, the cruell enemies of the City muſt ſeaſe their threſhing and malice, cruelty in priſons muſt be changed to mercy, men muſt have more reſpect to keep that ſolemne Proteſt<g ref="char:EOLhyphen"/>ation which was taken when we entred into Covenant (before the Lord) with the King and Parliament, the murder, rapine, plun<g ref="char:EOLhyphen"/>dring and cruelty againſt thoſe that ſtand for Gods cauſe, muſt not be ſuffered, for for ſuch things as theſe God is highly provo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to anger.</p>
+            <p n="8">
+               <pb n="5" facs="tcp:111766:4"/> 8. The prophet <hi>Obadiah</hi> threatens the Cavaliers of <hi>Edom</hi> that fortifie themſelves in Rocks and Caſtles, that God would pull down their pride and lay them low; <hi>Obadiah, chap.</hi> 1.</p>
+            <p>And let the deboiſt Cavaliers of our daies be ſure, that God beholds all their actions, and will pull down the pride of their hearts and lay them low.</p>
+            <p n="9">9. The Prophet <hi>Ionah</hi> was ſent to thunder judgement againſt <hi>Nineveh,</hi> becauſe the cry of the wickedneſſe thereof was gone up before the Lord, <hi>chap.</hi> 1.</p>
+            <p>And it is the cry of abominable Popery in our Land: It is the cry of cruel oppreſſion, the cry of ſwearing and drunkeneſſe that may juſtly make us to feare that our miſery will be greater except we repent and theſe evills be reformed.</p>
+            <p n="10">10. The Prophet <hi>Mica</hi> he thunders deſtruction againſt <hi>Iudals</hi> and <hi>Ieruſalem</hi> for their Idolatry, for which he tels them that their Cities ſhould be made heaps of ruine, and ſtrip them naked, and leave them howling and mourning, and rouling in the duſt <hi>Mica, chap.</hi> 1.</p>
+            <p>This would be in great danger to fall upon us if Idolatry ſhould beare ſway amongſt us, it would bring our famous Cities to ru<g ref="char:EOLhyphen"/>ine, ſtrip us naked of Gods holy word and worſhip, and make us to houle and mourne and roule our ſelves in the duſt till they ut<g ref="char:EOLhyphen"/>terly deſtroy us, and root us and our religion our.</p>
+            <p n="11">11. The Prophet <hi>Nahum</hi> thundreth vengeance againſt <hi>Nineveh</hi> and telleth them how God will deſtroy them utterly for their wicked Imaginations, but will ſend true peace to his people <hi>cap.</hi> 1.</p>
+            <p>And let the higheſt inventions of wicked policy think of it what they will, let them be ſure of this, that God will ſcatter and deſtroy them that uſe their policy againſt him or againſt his peo<g ref="char:EOLhyphen"/>ple, but to his ſervants he will ſend peace in an acceptable time.</p>
+            <p n="12">12. The Prophet <hi>Habakuk</hi> thunders out the deſtruction of the Caldeans, thoſe bitter furious Cavaliers that go upon the bre<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <pb n="5" facs="tcp:111766:5"/>of the Land to poſſeſſe thoſe dwelling places which are not theirs, they are terrible and fearfull, their judgement and their dignity ſhall proceed of themſelves, who are <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fierce as wolves that come all to ſpoile, and make a mock of the King and Princes, <hi>chap.</hi> 1.</p>
+            <p>And have not we as bitter furious Cavaliers as any of them were, that plunder and kill and do what they pleaſe, not regarding Law, but doing their own will, and make a mock of the King and Parliament, but God was ever highly diſpleaſed with ſuch courſes.</p>
+            <p n="12">12. The Prophet <hi>Zephaniah</hi> denounceth judgement againſt the People for worſhipping the hoſts of Heaven.</p>
+            <p>And do not the Papiſts do the ſame, and yet are tollerated and beare great power and ſway in ſome places of this Kingdome.</p>
+            <p>If this thundring Parliament will not worke upon us, nor move us to turne to God, then nothing can be expected but ſuddain ru<g ref="char:EOLhyphen"/>ine and deſtruction. The Lord give us grace to repent and relieve all our wants, and ſettle us in a permanent peace to his glory.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
